@@ -1,0 +1,22 @@
+{
+  "name": "custom-nodejsapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://fatihtepe@bitbucket.org/fatihtepe/custom-nodejsapp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://bitbucket.org/fatihtepe/custom-nodejsapp/issues"
+  },
+  "homepage": "https://bitbucket.org/fatihtepe/custom-nodejsapp#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
